@@ -33,7 +33,7 @@ const Home = () => {
 							</span>
 						</motion.button>
 					</Link>
-					<Link to="work" smooth={true} duration={500}>
+					<Link to="#" smooth={true} duration={500}>
 						<motion.button
 							whileTap={{ scale: 0.9 }}
 							className="font-medium text-white hover:text-[#0a192f] dark:hover:text-white bg-[#0a192f] dark:bg-[#E31B6D] group border-none outline-none px-4 py-3 my-2 flex items-center hover:bg-[#83c5be] dark:hover:bg-pink-700 duration-300 "
